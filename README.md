@@ -15,7 +15,7 @@ The dataset used contains information about confirmed COVID-19 cases and other e
 
 ## 📁 Folder Structure
 
-├── Ressources/
+├── Resources/
 |   └──Covid_France.csv
 ├── Code/
 |   └──Covid_EDA.ipynb
