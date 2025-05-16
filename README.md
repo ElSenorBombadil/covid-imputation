@@ -15,16 +15,15 @@ The dataset used contains information about confirmed COVID-19 cases and other e
 
 ## 📁 Folder Structure
 
-├── COVID/
-│ ├── Ressources/
-│ |   └──Covid_France.csv
-│ ├── Code/
-│ |   └──Covid_EDA.ipynb
-│ |   └──EDA_Time_Series.py
-│ ├── Functions/
-│ |   └──def_size_comparison.py
-│ ├── requirements.txt
-│ └── README.md
+├── Ressources/
+|   └──Covid_France.csv
+├── Code/
+|   └──Covid_EDA.ipynb
+|   └──EDA_Time_Series.py
+├── Functions/
+|   └──def_size_comparison.py
+├── requirements.txt
+└── README.md
 
 ---
 
